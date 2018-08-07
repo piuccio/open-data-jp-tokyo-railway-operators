@@ -1,0 +1,763 @@
+[
+  {
+    "code": "TWR",
+    "name_kanji": "東京臨海高速鉄道 (りんかい線) (TWR)",
+    "name_romaji": "Tōkyō Waterfront Area Rapid Transit",
+    "railways": [
+      {
+        "code": "TWR.Rinkai",
+        "name_kanji": "りんかい線",
+        "name_romaji": "Rinkai Line"
+      }
+    ]
+  },
+  {
+    "code": "SaitamaRailway",
+    "name_kanji": "埼玉高速鉄道 (SR)",
+    "name_romaji": "Saitama Railway",
+    "railways": [
+      {
+        "code": "SaitamaRailway.SaitamaRailway",
+        "name_kanji": "埼玉高速鉄道線",
+        "name_romaji": "Saitama Railway Line"
+      }
+    ]
+  },
+  {
+    "code": "ToyoRapid",
+    "name_kanji": "東葉高速鉄道",
+    "name_romaji": "Tōyō Rapid Railway",
+    "railways": [
+      {
+        "code": "ToyoRapid.ToyoRapid",
+        "name_kanji": "東葉高速線",
+        "name_romaji": "Toyo Rapid Line"
+      }
+    ]
+  },
+  {
+    "code": "Aizu",
+    "name_kanji": "会津鉄道",
+    "name_romaji": "Aizu Railway",
+    "railways": [
+      {
+        "code": "Aizu.Aizu",
+        "name_kanji": "会津線",
+        "name_romaji": "Aizu Line"
+      }
+    ]
+  },
+  {
+    "code": "Minatomirai",
+    "name_kanji": "横浜高速鉄道",
+    "name_romaji": "Yokohama Minatomirai Railway",
+    "railways": [
+      {
+        "code": "Minatomirai.Minatomirai",
+        "name_kanji": "みなとみらい線",
+        "name_romaji": "Minatomirai Line"
+      }
+    ]
+  },
+  {
+    "code": "Yurikamome",
+    "name_kanji": "ゆりかもめ",
+    "name_romaji": "Yurikamome",
+    "railways": [
+      {
+        "code": "Yurikamome.Yurikamome",
+        "name_kanji": "ゆりかもめ",
+        "name_romaji": "Yurikamome Line"
+      }
+    ]
+  },
+  {
+    "code": "Chichibu",
+    "name_kanji": "秩父鉄道",
+    "name_romaji": "Chichibu Railway",
+    "railways": [
+      {
+        "code": "Chichibu.Chichibu",
+        "name_kanji": "秩父本線",
+        "name_romaji": "Chichibu Line"
+      }
+    ]
+  },
+  {
+    "code": "Fujikyu",
+    "name_kanji": "富士急行 (Fujikyū, Fuji-Q 富士急)",
+    "name_romaji": "Fuji Kyūkō",
+    "railways": [
+      {
+        "code": "Fujikyu.Fujikyu",
+        "name_kanji": "富士急行線",
+        "name_romaji": "Fujikyu Line"
+      }
+    ]
+  },
+  {
+    "code": "Hokuso",
+    "name_kanji": "北総鉄道",
+    "name_romaji": "Hokusō Railway",
+    "railways": [
+      {
+        "code": "Hokuso.Hokuso",
+        "name_kanji": "北総線",
+        "name_romaji": "Hokuso Line"
+      }
+    ]
+  },
+  {
+    "code": "Shibayama",
+    "name_kanji": "芝山鉄道",
+    "name_romaji": "Shibayama Railway",
+    "railways": [
+      {
+        "code": "Shibayama.Shibayama",
+        "name_kanji": "芝山鉄道線",
+        "name_romaji": "Shibayama Line"
+      }
+    ]
+  },
+  {
+    "code": "ShinKeisei",
+    "name_kanji": "新京成電鉄",
+    "name_romaji": "Shin-Keisei Electric Railway",
+    "railways": [
+      {
+        "code": "ShinKeisei.ShinKeisei",
+        "name_kanji": "新京成線",
+        "name_romaji": "Shin-Keisei Line"
+      }
+    ]
+  },
+  {
+    "code": "Yagan",
+    "name_kanji": "野岩鉄道",
+    "name_romaji": "Yagan Railway",
+    "railways": [
+      {
+        "code": "Yagan.AizuKinugawa",
+        "name_kanji": "会津鬼怒川線",
+        "name_romaji": "Aizu-Kinugawa Line"
+      }
+    ]
+  },
+  {
+    "code": "TokyoMetro",
+    "name_kanji": "東京地下鉄 (東京メトロ)",
+    "name_romaji": "Tokyo Metro",
+    "railways": [
+      {
+        "code": "TokyoMetro.Chiyoda",
+        "name_kanji": "千代田線",
+        "name_romaji": "Chiyoda Line"
+      },
+      {
+        "code": "TokyoMetro.Fukutoshin",
+        "name_kanji": "副都心線",
+        "name_romaji": "Fukutoshin Line"
+      },
+      {
+        "code": "TokyoMetro.Ginza",
+        "name_kanji": "銀座線",
+        "name_romaji": "Ginza Line"
+      },
+      {
+        "code": "TokyoMetro.Hanzomon",
+        "name_kanji": "半蔵門線",
+        "name_romaji": "Hanzomon Line"
+      },
+      {
+        "code": "TokyoMetro.Hibiya",
+        "name_kanji": "日比谷線",
+        "name_romaji": "Hibiya Line"
+      },
+      {
+        "code": "TokyoMetro.MarunouchiBranch",
+        "name_kanji": "丸ノ内線支線",
+        "name_romaji": "Marunouchi Branch Line"
+      },
+      {
+        "code": "TokyoMetro.Marunouchi",
+        "name_kanji": "丸ノ内線",
+        "name_romaji": "Marunouchi Line"
+      },
+      {
+        "code": "TokyoMetro.Namboku",
+        "name_kanji": "南北線",
+        "name_romaji": "Namboku Line"
+      },
+      {
+        "code": "TokyoMetro.Tozai",
+        "name_kanji": "東西線",
+        "name_romaji": "Tozai Line"
+      },
+      {
+        "code": "TokyoMetro.Yurakucho",
+        "name_kanji": "有楽町線",
+        "name_romaji": "Yurakucho Line"
+      }
+    ]
+  },
+  {
+    "code": "JR-Central",
+    "name_kanji": "東海旅客鉄道 (JR東海)",
+    "name_romaji": "Central Japan Railway Company",
+    "railways": [
+      {
+        "code": "JR-Central.Tokaido",
+        "name_kanji": "東海道線",
+        "name_romaji": "Tokaido Line"
+      },
+      {
+        "code": "JR-Central.Gotemba",
+        "name_kanji": "御殿場線",
+        "name_romaji": "Gotemba Line"
+      }
+    ]
+  },
+  {
+    "code": "Keio",
+    "name_kanji": "京王電鉄",
+    "name_romaji": "Keio Corporation",
+    "railways": [
+      {
+        "code": "Keio.Dobutsuen",
+        "name_kanji": "動物園線",
+        "name_romaji": "Dobutsuen Line"
+      },
+      {
+        "code": "Keio.Inokashira",
+        "name_kanji": "井の頭線",
+        "name_romaji": "Inokashira Line"
+      },
+      {
+        "code": "Keio.Keibajo",
+        "name_kanji": "競馬場線",
+        "name_romaji": "Keibajo Line"
+      },
+      {
+        "code": "Keio.KeioNew",
+        "name_kanji": "京王新線",
+        "name_romaji": "Keio New Line"
+      },
+      {
+        "code": "Keio.Keio",
+        "name_kanji": "京王線",
+        "name_romaji": "Keio Line"
+      },
+      {
+        "code": "Keio.Sagamihara",
+        "name_kanji": "相模原線",
+        "name_romaji": "Sagamihara Line"
+      },
+      {
+        "code": "Keio.Takao",
+        "name_kanji": "高尾線",
+        "name_romaji": "Takao Line"
+      }
+    ]
+  },
+  {
+    "code": "Keikyu",
+    "name_kanji": "京浜急行電鉄 (京急)",
+    "name_romaji": "Keikyu Corporation",
+    "railways": [
+      {
+        "code": "Keikyu.Airport",
+        "name_kanji": "空港線",
+        "name_romaji": "Airport Line"
+      },
+      {
+        "code": "Keikyu.Daishi",
+        "name_kanji": "大師線",
+        "name_romaji": "Daishi Line"
+      },
+      {
+        "code": "Keikyu.Kurihama",
+        "name_kanji": "久里浜線",
+        "name_romaji": "Kurihama Line"
+      },
+      {
+        "code": "Keikyu.Main",
+        "name_kanji": "京急本線",
+        "name_romaji": "Keikyu Main Line"
+      },
+      {
+        "code": "Keikyu.Zushi",
+        "name_kanji": "逗子線",
+        "name_romaji": "Zushi Line"
+      }
+    ]
+  },
+  {
+    "code": "Seibu",
+    "name_kanji": "西武鉄道",
+    "name_romaji": "Seibu Railway",
+    "railways": [
+      {
+        "code": "Seibu.Haijima",
+        "name_kanji": "拝島線",
+        "name_romaji": "Haijima Line"
+      },
+      {
+        "code": "Seibu.Ikebukuro",
+        "name_kanji": "池袋線",
+        "name_romaji": "Ikebukuro Line"
+      },
+      {
+        "code": "Seibu.Kokubunji",
+        "name_kanji": "国分寺線",
+        "name_romaji": "Kokubunji Line"
+      },
+      {
+        "code": "Seibu.Sayama",
+        "name_kanji": "狭山線",
+        "name_romaji": "Sayama Line"
+      },
+      {
+        "code": "Seibu.SeibuChichibu",
+        "name_kanji": "西武秩父線",
+        "name_romaji": "Seibu-Chichibu Line"
+      },
+      {
+        "code": "Seibu.SeibuYurakucho",
+        "name_kanji": "西武有楽町線",
+        "name_romaji": "Seibu-Yurakucho Line"
+      },
+      {
+        "code": "Seibu.Seibuen",
+        "name_kanji": "西武園線",
+        "name_romaji": "Seibuen Line"
+      },
+      {
+        "code": "Seibu.Shinjuku",
+        "name_kanji": "新宿線",
+        "name_romaji": "Shinjuku Line"
+      },
+      {
+        "code": "Seibu.Tamagawa",
+        "name_kanji": "多摩川線",
+        "name_romaji": "Tamagawa Line"
+      },
+      {
+        "code": "Seibu.Tamako",
+        "name_kanji": "多摩湖線",
+        "name_romaji": "Tamako Line"
+      },
+      {
+        "code": "Seibu.Toshima",
+        "name_kanji": "豊島線",
+        "name_romaji": "Toshima Line"
+      },
+      {
+        "code": "Seibu.Yamaguchi",
+        "name_kanji": "山口線",
+        "name_romaji": "Yamaguchi Line"
+      }
+    ]
+  },
+  {
+    "code": "HakoneTozan",
+    "name_kanji": "箱根登山鉄道",
+    "name_romaji": "Hakone Tozan Railway",
+    "railways": [
+      {
+        "code": "HakoneTozan.HakoneTozan",
+        "name_kanji": "箱根登山線",
+        "name_romaji": "Hakone-Tozan Line"
+      }
+    ]
+  },
+  {
+    "code": "IzuHakone",
+    "name_kanji": "伊豆箱根鉄道 (大雄山線)",
+    "name_romaji": [
+      "Izuhakone Railway",
+      "Daiyūzan Line"
+    ],
+    "railways": [
+      {
+        "code": "IzuHakone.Sunzu",
+        "name_kanji": "駿豆線",
+        "name_romaji": "Sunzu Line"
+      }
+    ]
+  },
+  {
+    "code": "Izukyu",
+    "name_kanji": "伊豆急行 (伊豆急)",
+    "name_romaji": "Izukyū Corporation",
+    "railways": [
+      {
+        "code": "Izukyu.Izukyu",
+        "name_kanji": "伊豆急行線",
+        "name_romaji": "Izukyu Line"
+      }
+    ]
+  },
+  {
+    "code": "JR-East",
+    "name_kanji": "東日本旅客鉄道 (JR東日本)",
+    "name_romaji": "East Japan Railway Company",
+    "railways": [
+      {
+        "code": "JR-East.Agatsuma",
+        "name_kanji": "吾妻線",
+        "name_romaji": "Agatsuma Line"
+      },
+      {
+        "code": "JR-East.ChuoRapid",
+        "name_kanji": "中央線快速",
+        "name_romaji": "Chuo Rapid Line"
+      },
+      {
+        "code": "JR-East.ChuoSobuLocal",
+        "name_kanji": "中央・総武各駅停車",
+        "name_romaji": "Chuo Sobu Local Line"
+      },
+      {
+        "code": "JR-East.Chuo",
+        "name_kanji": "中央本線",
+        "name_romaji": "Chuo Line"
+      },
+      {
+        "code": "JR-East.Hachiko",
+        "name_kanji": "八高線",
+        "name_romaji": "Hachiko Line"
+      },
+      {
+        "code": "JR-East.Ito",
+        "name_kanji": "伊東線",
+        "name_romaji": "Ito Line"
+      },
+      {
+        "code": "JR-East.Itsukaichi",
+        "name_kanji": "五日市線",
+        "name_romaji": "Itsukaichi Line"
+      },
+      {
+        "code": "JR-East.JobanLocal",
+        "name_kanji": "常磐線各駅停車",
+        "name_romaji": "Joban Local Line"
+      },
+      {
+        "code": "JR-East.JobanRapid",
+        "name_kanji": "常磐線快速",
+        "name_romaji": "Joban Rapid Line"
+      },
+      {
+        "code": "JR-East.Joban",
+        "name_kanji": "常磐線",
+        "name_romaji": "Joban Line"
+      },
+      {
+        "code": "JR-East.Joetsu",
+        "name_kanji": "上越線",
+        "name_romaji": "Joetsu Line"
+      },
+      {
+        "code": "JR-East.Karasuyama",
+        "name_kanji": "烏山線",
+        "name_romaji": "Karasuyama Line"
+      },
+      {
+        "code": "JR-East.Kashima",
+        "name_kanji": "鹿島線",
+        "name_romaji": "Kashima Line"
+      },
+      {
+        "code": "JR-East.Kawagoe",
+        "name_kanji": "川越線(川越-高麗川間)",
+        "name_romaji": "Kawagoe Line"
+      },
+      {
+        "code": "JR-East.KeihinTohokuNegishi",
+        "name_kanji": "京浜東北線・根岸線",
+        "name_romaji": "Keihin-Tohoku-Negishi Line"
+      },
+      {
+        "code": "JR-East.Keiyo",
+        "name_kanji": "京葉線",
+        "name_romaji": "Keiyo Line"
+      },
+      {
+        "code": "JR-East.Musashino",
+        "name_kanji": "武蔵野線",
+        "name_romaji": "Musashino Line"
+      },
+      {
+        "code": "JR-East.NambuBranch",
+        "name_kanji": "南武線浜川崎支線",
+        "name_romaji": "Nambu Branch Line"
+      },
+      {
+        "code": "JR-East.Nambu",
+        "name_kanji": "南武線",
+        "name_romaji": "Nambu Line"
+      },
+      {
+        "code": "JR-East.NaritaAbikoBranch",
+        "name_kanji": "成田線我孫子支線",
+        "name_romaji": "Narita Abiko Branch Line"
+      },
+      {
+        "code": "JR-East.NaritaAirportBranch",
+        "name_kanji": "成田線空港支線",
+        "name_romaji": "Narita Airport Branch Line"
+      },
+      {
+        "code": "JR-East.Narita",
+        "name_kanji": "成田線",
+        "name_romaji": "Narita Line"
+      },
+      {
+        "code": "JR-East.Oito",
+        "name_kanji": "大糸線",
+        "name_romaji": "Oito Line"
+      },
+      {
+        "code": "JR-East.SobuRapid",
+        "name_kanji": "総武快速線",
+        "name_romaji": "Sobu Rapid Line"
+      },
+      {
+        "code": "JR-East.Ome",
+        "name_kanji": "青梅線",
+        "name_romaji": "Ome Line"
+      },
+      {
+        "code": "JR-East.Ou",
+        "name_kanji": "奥羽本線",
+        "name_romaji": "Ou Line"
+      },
+      {
+        "code": "JR-East.Ryomo",
+        "name_kanji": "両毛線",
+        "name_romaji": "Ryomo Line"
+      },
+      {
+        "code": "JR-East.Sagami",
+        "name_kanji": "相模線",
+        "name_romaji": "Sagami Line"
+      },
+      {
+        "code": "JR-East.SaikyoKawagoe",
+        "name_kanji": "埼京線・川越線",
+        "name_romaji": "Saikyo-Kawagoe Line"
+      },
+      {
+        "code": "JR-East.Shinonoi",
+        "name_kanji": "篠ノ井線",
+        "name_romaji": "Shinonoi Line"
+      },
+      {
+        "code": "JR-East.ShonanShinjuku",
+        "name_kanji": "湘南新宿ライン",
+        "name_romaji": "Shonan-Shinjuku Line"
+      },
+      {
+        "code": "JR-East.Sobu",
+        "name_kanji": "総武本線",
+        "name_romaji": "Sobu Line"
+      },
+      {
+        "code": "JR-East.Sotobo",
+        "name_kanji": "外房線",
+        "name_romaji": "Sotobo Line"
+      },
+      {
+        "code": "JR-East.Takasaki",
+        "name_kanji": "高崎線",
+        "name_romaji": "Takasaki Line"
+      },
+      {
+        "code": "JR-East.Togane",
+        "name_kanji": "東金線",
+        "name_romaji": "Togane Line"
+      },
+      {
+        "code": "JR-East.Tokaido",
+        "name_kanji": "東海道線",
+        "name_romaji": "Tokaido Line"
+      },
+      {
+        "code": "JR-East.Tsurumi",
+        "name_kanji": "鶴見線",
+        "name_romaji": "Tsurumi Line"
+      },
+      {
+        "code": "JR-East.Uchibo",
+        "name_kanji": "内房線",
+        "name_romaji": "Uchibo Line"
+      },
+      {
+        "code": "JR-East.Utsunomiya",
+        "name_kanji": "宇都宮線",
+        "name_romaji": "Utsunomiya Line"
+      },
+      {
+        "code": "JR-East.Yamanote",
+        "name_kanji": "山手線",
+        "name_romaji": "Yamanote Line"
+      },
+      {
+        "code": "JR-East.Yokohama",
+        "name_kanji": "横浜線",
+        "name_romaji": "Yokohama Line"
+      },
+      {
+        "code": "JR-East.Yokosuka",
+        "name_kanji": "横須賀線",
+        "name_romaji": "Yokosuka Line"
+      }
+    ]
+  },
+  {
+    "code": "Tobu",
+    "name_kanji": "東武鉄道",
+    "name_romaji": "Tobu Railway",
+    "railways": [
+      {
+        "code": "Tobu.Daishi",
+        "name_kanji": "大師線",
+        "name_romaji": "Daishi Line"
+      },
+      {
+        "code": "Tobu.Isesaki",
+        "name_kanji": "伊勢崎線",
+        "name_romaji": "Isesaki Line"
+      },
+      {
+        "code": "Tobu.Kameido",
+        "name_kanji": "亀戸線",
+        "name_romaji": "Kameido Line"
+      },
+      {
+        "code": "Tobu.Kinugawa",
+        "name_kanji": "鬼怒川線",
+        "name_romaji": "Kinugawa Line"
+      },
+      {
+        "code": "Tobu.Kiryu",
+        "name_kanji": "桐生線",
+        "name_romaji": "Kiryu Line"
+      },
+      {
+        "code": "Tobu.KoizumiBranch",
+        "name_kanji": "小泉線(東小泉-太田)",
+        "name_romaji": "Koizumi Branch Line"
+      },
+      {
+        "code": "Tobu.Koizumi",
+        "name_kanji": "小泉線",
+        "name_romaji": "Koizumi Line"
+      },
+      {
+        "code": "Tobu.Nikko",
+        "name_kanji": "日光線",
+        "name_romaji": "Nikko Line"
+      },
+      {
+        "code": "Tobu.Ogose",
+        "name_kanji": "越生線",
+        "name_romaji": "Ogose Line"
+      },
+      {
+        "code": "Tobu.Sano",
+        "name_kanji": "佐野線",
+        "name_romaji": "Sano Line"
+      },
+      {
+        "code": "Tobu.TobuSkytreeBranch",
+        "name_kanji": "東武スカイツリーライン(押上-曳舟)",
+        "name_romaji": "Tobu Skytree Branch Line"
+      },
+      {
+        "code": "Tobu.TobuSkytree",
+        "name_kanji": "東武スカイツリーライン",
+        "name_romaji": "Tobu Skytree Line"
+      },
+      {
+        "code": "Tobu.TobuUrbanPark",
+        "name_kanji": "東武アーバンパークライン",
+        "name_romaji": "Tobu Urban Park Line"
+      },
+      {
+        "code": "Tobu.Tojo",
+        "name_kanji": "東上線",
+        "name_romaji": "Tojo Line"
+      },
+      {
+        "code": "Tobu.Utsunomiya",
+        "name_kanji": "宇都宮線",
+        "name_romaji": "Utsunomiya Line"
+      }
+    ]
+  },
+  {
+    "code": "Keisei",
+    "name_kanji": "京成電気鉄道",
+    "name_romaji": "Keisei Electric Railway",
+    "railways": [
+      {
+        "code": "Keisei.Chiba",
+        "name_kanji": "千葉線",
+        "name_romaji": "Chiba Line"
+      },
+      {
+        "code": "Keisei.Chihara",
+        "name_kanji": "千原線",
+        "name_romaji": "Chihara Line"
+      },
+      {
+        "code": "Keisei.HigashiNarita",
+        "name_kanji": "東成田線",
+        "name_romaji": "Higashi-Narita Line"
+      },
+      {
+        "code": "Keisei.Kanamachi",
+        "name_kanji": "金町線",
+        "name_romaji": "Kanamachi Line"
+      },
+      {
+        "code": "Keisei.Main",
+        "name_kanji": "京成本線",
+        "name_romaji": "Keisei Main Line"
+      },
+      {
+        "code": "Keisei.NaritaSkyAccess",
+        "name_kanji": "成田スカイアクセス線",
+        "name_romaji": "Narita Sky Access Line"
+      },
+      {
+        "code": "Keisei.Oshiage",
+        "name_kanji": "押上線",
+        "name_romaji": "Oshiage Line"
+      }
+    ]
+  },
+  {
+    "code": "Odakyu",
+    "name_kanji": "小田急電鉄",
+    "name_romaji": "Odakyu Electric Railway",
+    "railways": [
+      {
+        "code": "Odakyu.Enoshima",
+        "name_kanji": "江ノ島線",
+        "name_romaji": "Enoshima Line"
+      },
+      {
+        "code": "Odakyu.Odawara",
+        "name_kanji": "小田原線",
+        "name_romaji": "Odawara Line"
+      },
+      {
+        "code": "Odakyu.Tama",
+        "name_kanji": "多摩線",
+        "name_romaji": "Tama Line"
+      }
+    ]
+  }
+]
