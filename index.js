@@ -4,7 +4,7 @@ const convert = require('html-to-json-data');
 const { group, text } = require('html-to-json-data/definitions');
 const openData = require('./input/odpt_Railway.json');
 
-const OPERATOR_PREFIX = 'odpt:Operator:'.length;
+const OPERATOR_PREFIX = 'odpt.Operator:'.length;
 const RAILWAY_PREFIX = 'odpt.Railway:'.length;
 
 async function railwayDataFromWikipedia() {
