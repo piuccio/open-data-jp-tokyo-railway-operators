@@ -828,5 +828,41 @@
         "name_romaji": "Yurikamome Line"
       }
     ]
+  },
+  {
+    "code": "Choshi",
+    "name_kanji": "銚子電気鉄道株式会社",
+    "name_romaji": "Choshi Electric Railway",
+    "railways": [
+      {
+        "code": "Choshi.Choshi",
+        "name_kanji": "銚子電気鉄道線",
+        "name_romaji": "Choshi Electric Railway Line"
+      }
+    ]
+  },
+  {
+    "code": "Isumi",
+    "name_kanji": "いすみ鉄道株式会社",
+    "name_romaji": "Isumi Railway",
+    "railways": [
+      {
+        "code": "Isumi.Isumi",
+        "name_kanji": "いすみ線",
+        "name_romaji": "Isumi Line"
+      }
+    ]
+  },
+  {
+    "code": "Ryutetsu",
+    "name_kanji": "流鉄株式会社",
+    "name_romaji": "Ryutetsu",
+    "railways": [
+      {
+        "code": "Ryutetsu.Nagareyama",
+        "name_kanji": "流山線",
+        "name_romaji": "Nagareyama Line"
+      }
+    ]
   }
 ]

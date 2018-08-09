@@ -1,11 +1,21 @@
 const fs = require('fs');
 const util = require('util');
 const convert = require('html-to-json-data');
+const csv = require('csv-parse');
 const { group, text } = require('html-to-json-data/definitions');
 const openData = require('./input/odpt_Railway.json');
 
 const OPERATOR_PREFIX = 'odpt.Operator:'.length;
 const RAILWAY_PREFIX = 'odpt.Railway:'.length;
+
+async function readCsv(filePath, transform = (x) => x) {
+  return new Promise((resolve, reject) => {
+    fs.createReadStream(filePath).pipe(csv({ columns: true }, (err, data) => {
+      if (err) reject(err);
+      else resolve(transform(data));
+    }));
+  });
+}
 
 async function railwayDataFromWikipedia() {
   const readFile = util.promisify(fs.readFile);
@@ -24,6 +34,7 @@ async function railwayDataFromWikipedia() {
 
 async function generate() {
   const wikipedia = await railwayDataFromWikipedia();
+  const manual = await readCsv('./input/manual_additions.csv');
   const operators = {};
 
   openData.forEach((data) => {
@@ -45,6 +56,22 @@ async function generate() {
       code: lineCode,
       name_kanji: railwayTitle.ja,
       name_romaji: railwayTitle.en,
+    });
+  });
+
+  manual.forEach((line) => {
+    if (!operators[line.operator_code]) {
+      operators[line.operator_code] = {
+        code: line.operator_code,
+        name_kanji: line.operator_name,
+        name_romaji: line.operator_name_en,
+        railways: [],
+      }
+    }
+    operators[line.operator_code].railways.push({
+      code: line.railway_code,
+      name_kanji: line.railway_name,
+      name_romaji: line.railway_name_en,
     });
   });
 
