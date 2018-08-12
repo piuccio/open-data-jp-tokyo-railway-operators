@@ -9,7 +9,7 @@
   },
   "author": "Fabio Crisci",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "csv-parse": "^2.5.0",
     "got": "^9.0.0",
     "html-to-json-data": "^1.5.1"
