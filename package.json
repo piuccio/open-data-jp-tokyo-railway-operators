@@ -2,7 +2,7 @@
   "name": "open-data-jp-tokyo-railway-operators",
   "version": "1.0.0",
   "description": "List of Japanese railway operators in an accessible format",
-  "main": "index.js",
+  "main": "operators.json",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon --watch index.js"
